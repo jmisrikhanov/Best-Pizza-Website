@@ -1,0 +1,45 @@
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    }
+h1{
+    color: rgb(201, 15, 39);
+    font-family:'Indie Flower', cursive;
+    
+}
+p.first_paragraph{
+    text-decoration: underline wavy yellow;
+    font-weight: bold;
+    position: absolute;
+    left: 30px;
+    top: 400px;
+
+}
+p.second_paragraph{
+    color: rgb(148, 139, 140);
+    text-indent: 25px;
+}
+
+img.first_image{
+    width: 45%;
+    padding: 0%;
+}
+
+img.second_image{
+    padding-left: 3px;
+    width: 70%;
+}
+
+a:link{
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:active{color: rgb(148, 139, 140);}
+
